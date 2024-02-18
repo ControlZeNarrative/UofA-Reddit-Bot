@@ -1,4 +1,4 @@
-# uAlberta Subreddit Bot
+# r/uAlberta Bot
 
 A simple Reddit Bot using Python
 
